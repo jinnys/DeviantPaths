@@ -30,6 +30,14 @@
 	-webkit-background-repeat: no-repeat;
 	background-position: center center;
 	opacity: 1;
+}#desc-halfbg-text-btn .half-container-left {
+    background-image: url('../images/bg-9.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    opacity:1;
 }#benefit-2col {
+	background: #ffffff;
+}#footer-text-logo-btn {
 	background: #ffffff;
 }

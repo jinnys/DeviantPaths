@@ -51,7 +51,9 @@ $(window).scroll(function () {
 //});
 
 });
-
+window.addEventListener('load', function() {
+	$('a.smooth').smoothScroll({speed: 800});
+});
 
 $('.single-iframe-popup').magnificPopup({
 	type: 'iframe',
