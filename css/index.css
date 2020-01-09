@@ -1,0 +1,35 @@
+
+#nav-logo-2row-drop .dropdown-menu, #nav-logo-2row-drop .sub-menu, #nav-logo-2row-drop .mega-menu-container {
+	background: #353b4a;
+}.nav-bg-color {
+	background: linear-gradient(135deg, #99a3b4, #353b4a);
+}#nav-logo-2row-drop .nav-bg {
+	background: linear-gradient(135deg, #99a3b4, #353b4a);
+	opacity: 1;
+}#header-center-slogan {
+	background: #353b4a;
+}
+
+#header-center-slogan .bg {
+	background-image: url('../images/bg-sky-1.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 1;
+}#desc-full-text-btn-halfbg{
+	background: #353b4a;
+}
+
+#desc-full-text-btn-halfbg .half-container-right {
+	background-image: url('../images/Map002.png');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 1;
+}#benefit-2col {
+	background: #ffffff;
+}
