@@ -31,13 +31,27 @@
 	background-position: center center;
 	opacity: 1;
 }#desc-halfbg-text-btn .half-container-left {
-    background-image: url('../images/bg-9.jpg');
-    background-repeat: no-repeat;
-    background-position: right;
-    background-size: cover;
-    opacity:1;
+	background-image: url('../images/Map007.png');
+	background-size: auto;
+	-webkit-background-size: auto;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 1;
 }#benefit-2col {
 	background: #ffffff;
+}#action-text-btn-2 {
+	background: #353b4a;
+}
+
+#action-text-btn-2 .bg {
+	background-image: url('../images/Map001.png');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: top center;
+	opacity: 0.3;
 }#footer-text-logo-btn {
 	background: #ffffff;
 }
