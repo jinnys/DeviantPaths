@@ -11,13 +11,13 @@
 }
 
 #header-center-slogan .bg {
-	background-image: url('../images/bg-sky-1.jpg');
+	background-image: url('../images/bg-blur-4.jpg');
 	background-size: cover;
 	-webkit-background-size: cover;
 	background-repeat: no-repeat;
 	-webkit-background-repeat: no-repeat;
 	background-position: center center;
-	opacity: 1;
+	opacity: 0.5;
 }#desc-full-text-btn-halfbg{
 	background: #353b4a;
 }
