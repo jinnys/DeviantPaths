@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":241,"indent":0,"parameters":[{"name":"Castle2","volume":90,"pitch":100,"pan":0}]},{"code":222,"indent":0,"parameters":[]},{"code":105,"indent":0,"parameters":[1,false]},{"code":405,"indent":0,"parameters":["世界，有一套運行的法則，叫做自然。"]},{"code":405,"indent":0,"parameters":["社會，也有一套準則，叫做規矩。"]},{"code":405,"indent":0,"parameters":["規矩由人們所定，根據的是多數人的共同意識。"]},{"code":405,"indent":0,"parameters":["如果違反了它，便會冠上離經叛道之名。"]},{"code":405,"indent":0,"parameters":["然而，我們所遵循的，真的是不可違背的真理嗎？"]},{"code":405,"indent":0,"parameters":[""]},{"code":405,"indent":0,"parameters":["有一群人，他們走著自己想走的路，逆道而行。"]},{"code":405,"indent":0,"parameters":["不管世俗的眼光，將他們視為毒蛇猛獸；"]},{"code":405,"indent":0,"parameters":["也不管迎面而來的是艱苦困境與無數責難，"]},{"code":405,"indent":0,"parameters":["他們依舊堅持自我，行走叛逆的軌跡。"]},{"code":405,"indent":0,"parameters":[""]},{"code":405,"indent":0,"parameters":[""]},{"code":405,"indent":0,"parameters":["叛　離　之　軌"]},{"code":221,"indent":0,"parameters":[]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":203,"indent":0,"parameters":[0,0,18,16,8]},{"code":115,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"序章","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

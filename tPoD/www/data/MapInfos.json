@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"expanded":true,"name":"開場回憶","order":14,"parentId":0,"scrollX":810,"scrollY":531.5},
+{"id":2,"expanded":true,"name":"00_World","order":1,"parentId":0,"scrollX":810,"scrollY":429.5},
+{"id":3,"expanded":true,"name":"王城城郊","order":12,"parentId":2,"scrollX":1109,"scrollY":1053},
+{"id":4,"expanded":true,"name":"森林","order":9,"parentId":6,"scrollX":810,"scrollY":1003.5},
+{"id":5,"expanded":true,"name":"羅尤鎮","order":11,"parentId":2,"scrollX":1109,"scrollY":455},
+{"id":6,"expanded":true,"name":"失落的森林","order":8,"parentId":2,"scrollX":1512,"scrollY":1003.5},
+{"id":7,"expanded":true,"name":"摩洛村","order":2,"parentId":2,"scrollX":1370,"scrollY":1246.5},
+{"id":8,"expanded":false,"name":"精靈仙境","order":13,"parentId":2,"scrollX":810,"scrollY":1003.5},
+{"id":9,"expanded":true,"name":"村長家 1F","order":3,"parentId":7,"scrollX":818,"scrollY":436.5},
+{"id":10,"expanded":false,"name":"村長家 2F","order":4,"parentId":9,"scrollX":818,"scrollY":436.5},
+{"id":11,"expanded":false,"name":"房子 1","order":5,"parentId":7,"scrollX":819,"scrollY":453},
+{"id":12,"expanded":false,"name":"學校","order":6,"parentId":7,"scrollX":818,"scrollY":436.5},
+{"id":13,"expanded":false,"name":"道具商店","order":7,"parentId":7,"scrollX":818,"scrollY":436.5},
+{"id":14,"expanded":false,"name":"城堡 3F","order":15,"parentId":1,"scrollX":1157,"scrollY":991.5},
+{"id":15,"expanded":false,"name":"Lost Forest Maze","order":10,"parentId":6,"scrollX":818,"scrollY":429}
+]

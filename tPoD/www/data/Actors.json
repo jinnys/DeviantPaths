@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"sherry_s3","characterIndex":2,"characterName":"Main_Actor","classId":4,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"sherry_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"雪莉","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Kay3","characterIndex":0,"characterName":"Main_Actor","classId":3,"equips":[3,1,0,3,4],"faceIndex":0,"faceName":"Kay_face","traits":[],"initialLevel":50,"maxLevel":99,"name":"凱‧安格斯","nickname":"凱","note":"","profile":"旅行到摩洛村的神祕魔法師。"},
+{"id":3,"battlerName":"Jelia_s3","characterIndex":3,"characterName":"Main_Actor","classId":1,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Jelia_face","traits":[],"initialLevel":30,"maxLevel":99,"name":"潔利亞","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Enid_s3","characterIndex":4,"characterName":"Main_Actor","classId":2,"equips":[4,0,2,3,4],"faceIndex":1,"faceName":"Enid_face","traits":[],"initialLevel":30,"maxLevel":99,"name":"伊妮德","nickname":"伊妮德","note":"","profile":""},
+{"id":5,"battlerName":"Sirena1_s3","characterIndex":1,"characterName":"Main_Actor","classId":3,"equips":[3,0,0,3,4],"faceIndex":0,"faceName":"Sirena_face","traits":[],"initialLevel":40,"maxLevel":99,"name":"瑟蕾娜","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"$BossMonster_KH05_02","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"KH05_faces_MV_01","traits":[],"initialLevel":1,"maxLevel":99,"name":"葛雷","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Abyss_s3","characterIndex":0,"characterName":"Abyss_s1","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Abyss_face","traits":[],"initialLevel":40,"maxLevel":99,"name":"深淵","nickname":"Abyss","note":"","profile":""},
+{"id":8,"battlerName":"Enid2_s3","characterIndex":5,"characterName":"Main_Actor","classId":2,"equips":[4,0,2,3,4],"faceIndex":1,"faceName":"Enid2_face","traits":[],"initialLevel":50,"maxLevel":99,"name":"伊妮德","nickname":"伊妮德","note":"","profile":"知曉被追殺原因後的伊妮德，不再隱藏他的異色雙瞳。"}
+]
