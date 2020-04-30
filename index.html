@@ -479,7 +479,6 @@
                 <div class="modal-body">
                     <div class="row">
                         <div class="col-md-12">
-                            
                             <div class="embed-responsive embed-responsive-4by3 g-map light">
                                 <iframe src="https://jinnys.github.io/DeviantPaths/tPoD/www/index.html" frameborder="0" width="820" height="630" scrolling="no"></iframe>
                             </div>
@@ -499,6 +498,20 @@
     <script src="https://cdn.jsdelivr.net/jquery.goodshare.js/3.2.8/goodshare.min.js"></script>
     <script src="js/custom.js"></script>
     <!--<script src="js/index.js"></script>-->
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $('.modal').each(function() {
+            var src = $(this).find('iframe').attr('src');
+
+            $(this).on('click', function() {
+
+                $(this).find('iframe').attr('src', '');
+                $(this).find('iframe').attr('src', src);
+
+            });
+        });
+    });
+    </script>
 </body>
 
 </html>
